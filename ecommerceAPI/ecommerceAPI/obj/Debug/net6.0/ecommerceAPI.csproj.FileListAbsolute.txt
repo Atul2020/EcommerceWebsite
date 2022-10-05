@@ -63,3 +63,6 @@ C:\Users\ADMIN\Desktop\EcommerceApplication\ecommerceAPI\ecommerceAPI\bin\Debug\
 C:\Users\ADMIN\Desktop\EcommerceApplication\ecommerceAPI\ecommerceAPI\bin\Debug\net6.0\Infrastructure.dll
 C:\Users\ADMIN\Desktop\EcommerceApplication\ecommerceAPI\ecommerceAPI\bin\Debug\net6.0\Infrastructure.pdb
 C:\Users\ADMIN\Desktop\EcommerceApplication\ecommerceAPI\ecommerceAPI\bin\Debug\net6.0\Core.pdb
+C:\Users\ADMIN\Desktop\EcommerceApplication\ecommerceAPI\ecommerceAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\ADMIN\Desktop\EcommerceApplication\ecommerceAPI\ecommerceAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ADMIN\Desktop\EcommerceApplication\ecommerceAPI\ecommerceAPI\bin\Debug\net6.0\ecommerceAPI.staticwebassets.runtime.json
